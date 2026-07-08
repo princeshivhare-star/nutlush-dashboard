@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+.env.local
+.vercel
+*.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
